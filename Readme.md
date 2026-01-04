@@ -6,43 +6,45 @@
 
   [POPINS](https://fonts.google.com/specimen/Poppins)
 
-  [Roboto](https://fonts.google.com/specimen/Roboto)/思源黑体：无衬线，简约
+### 英文
 
-  - [Montserrat](https://fonts.google.com/specimen/Montserrat)：流行的几何无衬线字体，非常适合标题和 UI。
+[Roboto](https://fonts.google.com/specimen/Roboto)/思源黑体：无衬线，简约
 
-  - [SF Pro Display](https://developer.apple.com/fonts/)：苹果系统字体（Heavy 字重）。
+- [Montserrat](https://fonts.google.com/specimen/Montserrat)：流行的几何无衬线字体，非常适合标题和 UI。
 
-  - [Idealy](file:///Users/curiosita/dev/font/Idealy.ttf)：目录中发现的有效字体文件。
+- [SF Pro Display](https://developer.apple.com/fonts/)：苹果系统字体（Heavy 字重）。
 
-  - [Flynn mono](https://www.zcool.com.cn/work/ZNDU3MzU0MTY=.html)
+- [Idealy](file:///Users/curiosita/dev/font/Idealy.ttf)：目录中发现的有效字体文件。
 
-  - [Maple Mono](https://github.com/subframe7536/maple-font)
+- [Flynn mono](https://www.zcool.com.cn/work/ZNDU3MzU0MTY=.html)
 
-  - [Bangers](https://fonts.google.com/specimen/Bangers)：震惊体
+- [Maple Mono](https://github.com/subframe7536/maple-font)
 
-  - [Jost](https://indestructibletype.com/Jost.html)：几何无衬线，现代简约时尚
+- [Bangers](https://fonts.google.com/specimen/Bangers)：震惊体
 
-  - [iA Writer Quattro](https://fontsource.org/fonts/ia-writer-quattro)：衬线体（商用需授权）
+- [Jost](https://indestructibletype.com/Jost.html)：几何无衬线，现代简约时尚
 
-        iA Writer Quattro 是一款专为写作和编程环境设计的特色等宽字体，以其独特的视觉风格和实用功能受到关注。
+- [iA Writer Quattro](https://fontsource.org/fonts/ia-writer-quattro)：衬线体（商用需授权）
 
-        |特性分类|具体说明|
+      iA Writer Quattro 是一款专为写作和编程环境设计的特色等宽字体，以其独特的视觉风格和实用功能受到关注。
 
-    |-|-|
-    |**字体家族**​|iA Writer Quattro S|
-    |**字体风格**​|包含 Bold (粗体) 等风格|
-    |**设计核心**​|**多宽度设计**：在保持等宽字体网格感的同时，允许不同字符拥有多种宽度（如 50%, 75%, 100%, 150%），改善排版和谐度与易读性|
-    |**字符支持**​|支持**拉丁文**、**希腊文**、**西里尔文**、**泰文**等多种文字，涵盖基本标点、货币符号、数学符号、几何形状、箭头等丰富符号|
-    |**文件格式**​|TTF (TrueType)|
-    |**适用场景**​|Markdown 写作、编程、需要兼顾对齐要求和视觉舒适度的文本编辑|
+      |特性分类|具体说明|
 
-- 中文
+  |-|-|
+  |**字体家族**​|iA Writer Quattro S|
+  |**字体风格**​|包含 Bold (粗体) 等风格|
+  |**设计核心**​|**多宽度设计**：在保持等宽字体网格感的同时，允许不同字符拥有多种宽度（如 50%, 75%, 100%, 150%），改善排版和谐度与易读性|
+  |**字符支持**​|支持**拉丁文**、**希腊文**、**西里尔文**、**泰文**等多种文字，涵盖基本标点、货币符号、数学符号、几何形状、箭头等丰富符号|
+  |**文件格式**​|TTF (TrueType)|
+  |**适用场景**​|Markdown 写作、编程、需要兼顾对齐要求和视觉舒适度的文本编辑|
 
-  - [得意黑](https://github.com/atelier-anchor/smiley-sans)｜ Smiley Sans：俏皮，适合 toC 产品，Mac 建议使用 homebrew 安装
+### 中文
 
-        ```C
+- [得意黑](https://github.com/atelier-anchor/smiley-sans)｜ Smiley Sans：俏皮，适合 toC 产品，Mac 建议使用 homebrew 安装
 
-    brew install font-smiley-sans
+      ```C
+
+  brew install font-smiley-sans
 
 ```
 
@@ -170,7 +172,7 @@
 
 
 
-艺术字
+### 艺术字
 
   - [WestSide](https://webdesignerdepot.com/free-download-west-side-font/)：可爱风格，适合独立轻松游戏
 
