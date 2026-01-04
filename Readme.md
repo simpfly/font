@@ -71,7 +71,6 @@
 
   - [喜脉喜欢体](https://www.maoken.com/freefonts/22002.html):一款映射情绪的字，风格文艺自由
 
-    [字制区喜脉喜欢体1.00_猫啃网.zip](https://flowus.cn/preview/fb8ef180-39f8-427d-8281-87794897ccd4)
 
 
 
@@ -81,9 +80,7 @@
 
 
 
-    [YShiMinchoCL-Regular.ttf](https://flowus.cn/preview/2b09280c-7bb6-4ad3-926b-c56f812763b4)
 
-    [YShiMinchoCLS-Regular.ttf](https://flowus.cn/preview/e57dafdb-395e-4d8d-baaf-2c2aeea1ee89)
 
   - [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)｜LXGW WenKai
 
@@ -98,7 +95,6 @@
 
 
 
-    [dotted_songti_v_0_1.zip](https://flowus.cn/preview/89a2500c-a858-4bcd-b4a6-dd1121bd4c14)
 
   思源宋体：有衬线，优雅
 
@@ -114,7 +110,6 @@
 
   - [栗壳坚坚体](https://www.lifont.cn/archives/fyuFMthn)｜LikeJianJianTi：手写体，整体比较干练
 
-    [LikeJianJianTi-Regular-ntgt.ttf](https://flowus.cn/preview/c328d7cb-7231-41cf-a7ad-0ea6402ee128)
 
 
 
@@ -124,7 +119,6 @@
 
     [特里王](https://www.xiaohongshu.com/user/profile/61ff6ce0000000001000da05?xsec_token=&xsec_source=pc_feed)
 
-    [京华老宋体.7z](https://flowus.cn/preview/32d6a77f-fdab-449d-9543-4c9a5cccc21f)
 
 
 
@@ -204,7 +198,6 @@
 
   - [香萃打字机体](https://github.com/Miiiller/Xiangcui-Dazijiti)｜XiangcuiDazijitiW40：香萃打字机体系列是一款笔画模仿打字机洇墨效果的宋体字家族，包含3个字重。
 
-    [香萃打字机体 W40.ttf](https://flowus.cn/preview/e6544b16-b9bc-4596-ac24-1816eccd645e)
 
     字体的原型是开源项目思源宋体。其中W40与W35的区别在于汉字横画粗细、细节的粘连程度，以及英文字母衬线的不同。制作过程经历人工手动调节，因此目前仅支持GB2312的约7000字符。制作这款字体，是由于先前的香萃刻宋的线条过于尖锐，在偏大字号时显示效果不好。
 
@@ -212,13 +205,11 @@
 
   - [女书-也字工厂](https://mp.weixin.qq.com/s/PrKtdKZVQwQyx-74ajaiiw)[也字工厂柳叶体]：我参加过一次江永女书活动，尝试制作了热缩片。
 
-    [也字工厂柳叶体.ttf](https://flowus.cn/preview/0fb7c609-861a-4093-8648-87e6f316d629)
 
 
 
   - [クラフト明朝](https://booth.pm/zh-cn/items/3308018)｜craftmincho：手绘童趣明朝字体（中日英）
 
-    [クラフト明朝.otf](https://flowus.cn/preview/2d1fb32b-9d14-4e91-9d7f-2eba2af02f34)
 
     - 官方版权说明
 
@@ -249,7 +240,6 @@
 
 
 
-用[书法迷](https://flowus.cn/81a4b42f-2022-41c0-84fc-c5454264bedf#370248d7-34a5-46a1-97b8-62892394719c)生成书法字
 
 自行设计字体：只需要用到几个字，又想要有独特风格，可以尝试自己来设计。
 
